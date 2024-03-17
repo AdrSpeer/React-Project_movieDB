@@ -1,0 +1,21 @@
+.detail {
+  background: rgb(0, 0, 0);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgb(210, 83, 83) 78%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 0.2vw;
+  height: 100vh;
+}
+
+.detail h1 {
+  margin: 1vw 0;
+}
+.detail h3 {
+  margin: 1vw 0;
+}
+
+.detail-genre {
+  color: rgb(183, 183, 183);
+}
